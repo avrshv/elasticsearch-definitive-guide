@@ -5,7 +5,7 @@ The _parent-child_ relationship is ((("relationships", "parent-child")))((("pare
 <<nested-objects,nested model>>: both allow you to associate one entity
 with another. ((("nested objects", "parent-child relationships versus")))The difference is that, with nested objects, all entities live
 within the same document while, with parent-child, the parent and children
-are completely separate documents.
+are completely separate documents. aaaa
 
 The parent-child functionality allows you to associate one document type with
 another, in a _one-to-many_ relationship--one parent to many children.((("one-to-many relationships")))   The
